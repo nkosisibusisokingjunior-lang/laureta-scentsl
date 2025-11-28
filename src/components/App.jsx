@@ -561,7 +561,7 @@ const App = () => {
               variants={fadeInUp}
               className="text-6xl md:text-7xl font-serif text-stone-900 mb-8 leading-tight tracking-tight"
             >
-              evated Elegance<br/>
+              Elevated Elegance<br/>
               <span className="text-amber-800">Timeless Grace</span>
             </motion.h1>
             
