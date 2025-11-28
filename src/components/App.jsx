@@ -787,7 +787,7 @@ const App = () => {
               className="grid grid-cols-1 md:grid-cols-3 gap-8"
             >
               {[
-                { icon: Phone, text: "(+27)67 778 2468" },
+                { icon: Phone, text: "(+27)61 032 5686" },
                 { icon: Mail, text: "lauretascents.co.za" },
                 { icon: MapPin, text: "Ermelo, Mpumalanga" }
               ].map((item, index) => (
