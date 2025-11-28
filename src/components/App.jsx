@@ -9,7 +9,7 @@ const PRODUCTS = [
     price: 200,
     category: "home",
     featured: true,
-    images: ["https://lauretascentscol.netlify.app/images/products/car-diffusers/dif1.jpg"],
+    images: ["https://lauretascents1126.netlify.app/images/products/car-diffusers/dif1.jpg"],
     description: "A soothing lavender scent that transforms your home into a peaceful sanctuary",
     scents: ["Lavender", "Vanilla"],
     sizes: ["120ml"],
@@ -24,7 +24,7 @@ const PRODUCTS = [
     price: 80,
     category: "home",
     featured: true,
-    images: ["https://lauretascentscol.netlify.app/images/products/car-diffusers/dif2.jpg"],
+    images: ["https://lauretascents1126.netlify.app/images/products/car-diffusers/dif2.jpg"],
     description: "Energizing citrus blend perfect for brightening any space",
     scents: ["Lavender", "Vanilla", "Cherry Blossom", "Rose", "Osmanthus Flower"],
     sizes: ["8ml"],
@@ -561,7 +561,7 @@ const App = () => {
               variants={fadeInUp}
               className="text-6xl md:text-7xl font-serif text-stone-900 mb-8 leading-tight tracking-tight"
             >
-              Elevated Elegance<br/>
+              evated Elegance<br/>
               <span className="text-amber-800">Timeless Grace</span>
             </motion.h1>
             
